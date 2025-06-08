@@ -1,0 +1,26 @@
+{
+  "name": "at_04",
+  "version": "1.0.0",
+  "description": "Aplicacao Web",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nahmi07/AT_04.git"
+  },
+  "author": "Yasmin Nascimento Guica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nahmi07/AT_04/issues"
+  },
+  "homepage": "https://github.com/Nahmi07/AT_04#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1"
+  }
+}
